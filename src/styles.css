@@ -1,0 +1,59 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .app-container {
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background: #333;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .navbar a:hover {
+    background: #555;
+    border-radius: 5px;
+  }
+  
+  /* Footer */
+  .footer {
+    background: #222;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Page Sections */
+  div {
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #222;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
